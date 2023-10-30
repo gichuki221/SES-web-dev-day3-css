@@ -1,0 +1,23 @@
+h1{
+    color: rgb(59, 14, 221);
+  }
+
+  h2 {
+      color: green;
+  }
+  .section-background {
+    background-color: #f30c0c;
+  }s
+  img {
+      max-width: 100%;
+      height: auto;
+  }
+
+  p {
+      font-style: italic;
+  }
+
+  ul {
+      list-style-type: square;
+      font-style:italic;
+  }
